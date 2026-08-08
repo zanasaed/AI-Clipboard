@@ -1,0 +1,17 @@
+Privacy Policy
+
+AI Clipboard does not collect, store, or transmit any personal data to external servers.
+
+All data, including saved prompts, is stored locally on the user's device using the browser's storage API.
+
+We do not use analytics, tracking, or any third-party services.
+
+We do not sell, share, or transfer user data to anyone.
+
+Permissions are used strictly to enable core functionality:
+- Access to supported AI websites to detect and restore input
+- Local storage to save prompt history
+
+If you uninstall the extension, all stored data may be permanently deleted.
+
+For questions, please contact via GitHub.
