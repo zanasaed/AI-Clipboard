@@ -308,15 +308,15 @@ The project is privacy-first, lightweight, and designed to stay out of your way 
 
 ### Developer
 
-**[Your Name]**
+**[Zana Saedpanah]**
 
-[View the project on GitHub](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+[View the project on GitHub](https://github.com/zanasaed/AI-Clipboard)
 
 ### Other projects
 
 Check out my other browser extensions and projects on GitHub:
 
-[View all projects](https://github.com/YOUR_USERNAME)
+[View all projects](https://github.com/zanasaed)
 
 ---
 
@@ -333,7 +333,7 @@ When reporting a problem, it is helpful to include:
 
 Please **do not include private conversations or sensitive prompts** in bug reports.
 
-[Report a problem on GitHub](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/issues)
+[Report a problem on GitHub](https://github.com/zanasaed/AI-Clipboard/issues)
 
 ---
 
